@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+model-fr/
+*.zip
+.DS_Store
